@@ -12,6 +12,6 @@ public class testFTC extends OpMode {
     }
 
     public void loop() {
-        telemetry.addData("Hello", "Cata1");
+        telemetry.addData("Hello", "Cata");
     }
 }
